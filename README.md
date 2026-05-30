@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=DharshanPM&style=flat-square&color=70A5FD&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Dharshanmohan007&style=flat-square&color=70A5FD&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5733?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio.com)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dharshanmohan2704@gmail.com)
@@ -164,14 +164,14 @@ const dharshan = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DharshanPM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharshanPM&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dharshanmohan007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharshanmohan007&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DharshanPM&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dharshanmohan007&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -200,7 +200,7 @@ const dharshan = {
 
 <div align="center">
 
-[![Dharshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DharshanPM&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Dharshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dharshanmohan007&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
